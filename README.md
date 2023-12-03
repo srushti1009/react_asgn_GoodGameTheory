@@ -1,4 +1,5 @@
 # Beer App
+
 This was an Assignment Given by THE GOOD GAME THEORY.
 This is a simple React app that fetches and displays beer data from the [Punk API](https://punkapi.com/). It allows users to search for beers and view their details in cards with images.
 
@@ -6,7 +7,11 @@ This is a simple React app that fetches and displays beer data from the [Punk AP
 
 -> The app fetches beer data from the Punk API and displays it in cards with images.
 
--> Users can search for beers by name. The displayed beer cards are filtered based on the search term.
+-> Users can search for beers by name. The displayed beer cards are filtered 
+
+https://github.com/srushti1009/react_asgn_GoodGameTheory/assets/121424500/b774bed2-e868-4100-b07a-9e1d9a143893
+
+based on the search term.
 
 ## Technologies Used
 
