@@ -9,7 +9,6 @@ This is a simple React app that fetches and displays beer data from the [Punk AP
 
 -> Users can search for beers by name. The displayed beer cards are filtered 
 
-https://github.com/srushti1009/react_asgn_GoodGameTheory/assets/121424500/b774bed2-e868-4100-b07a-9e1d9a143893
 
 based on the search term.
 
