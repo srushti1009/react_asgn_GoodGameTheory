@@ -1,12 +1,12 @@
 # Beer App
-
+This was an Assignment Given by THE GOOD GAME THEORY.
 This is a simple React app that fetches and displays beer data from the [Punk API](https://punkapi.com/). It allows users to search for beers and view their details in cards with images.
 
 ## Features
 
-- **Display Beers:** The app fetches beer data from the Punk API and displays it in cards with images.
+-> The app fetches beer data from the Punk API and displays it in cards with images.
 
-- **Search Functionality:** Users can search for beers by name. The displayed beer cards are filtered based on the search term.
+-> Users can search for beers by name. The displayed beer cards are filtered based on the search term.
 
 ## Technologies Used
 
@@ -17,7 +17,14 @@ This is a simple React app that fetches and displays beer data from the [Punk AP
 
 Follow these steps to run the project on your local machine:
 
-1. Clone the repository:
+1. Clone the repository
 
-   ```bash
-   git clone https://github.com/your-username/beer-app.git
+2. Navigate to the project directory: cd beer-app
+
+3. Install dependencies: npm install
+
+4. Run the app: npm start
+Open your browser and go to http://localhost:3000 to view the app.
+
+Submitted by Srushti M.
+on 03-12-2023
